@@ -2,7 +2,7 @@
 function checkForClickBait() {
     $clickbait = strtolower( $_POST["clickbait_headline"] );
     $a = array(
-            "scietists",
+            "scientists",
             "doctors",
             "hate",
             "stupid",
